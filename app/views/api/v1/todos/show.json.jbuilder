@@ -1,0 +1,1 @@
+json.(@todo, :id, :name, :description, :status)
